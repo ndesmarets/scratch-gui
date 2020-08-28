@@ -43,7 +43,7 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
 
 
 var onClickLogo = function onClickLogo() {
-  window.location = 'https://scratch.desmath.fr';
+  window.location = 'https://scratch.desmaths.fr';
 };
 
 var handleTelemetryModalCancel = function handleTelemetryModalCancel() {
